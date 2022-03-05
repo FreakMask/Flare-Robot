@@ -169,7 +169,7 @@ Note: the restart bat requires that User account control be disabled.
 For queries or any issues regarding the bot please open an issue ticket or visit us at [One Punch Support](https://t.me/Freia_Support)
 ## How to setup on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Asta-vir/Flare-Robot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FreakMask/Flare-Robot.git) 
 
 
 ## Credits
