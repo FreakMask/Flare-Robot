@@ -22,8 +22,8 @@ async def awake(event):
     TEXT += "**Thanks for adding me here!!**"
     BUTTON = [
         [
-            Button.url("📢 Updates", "https://t.me/Foresight_Updates"),
-            Button.url("🚑 Support", "https://t.me/ForeSight_Academy"),
+            Button.url("Updates", "https://t.me/Foresight_Updates"),
+            Button.url("Support", "https://t.me/ForeSight_Academy"),
         ]
     ]
     await tbot.send_file(event.chat_id, PHOTO, caption=TEXT, buttons=BUTTON)
