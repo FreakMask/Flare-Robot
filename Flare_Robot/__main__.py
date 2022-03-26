@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 GROUP_START_IMG = "https://telegra.ph/file/2cd6f97e0cf04d63cabf4.mp4"
 
-FLARE_PHOTO = "https://telegra.ph/file/2a171330f0ad1fc02465c.jpg"
+FLARE_PHOTO = "https://telegra.ph/file/90959b8d78cf50d7e87d7.jpg"
 
 PM_START_TEXT = """
 ────「 {} 」────
@@ -85,12 +85,12 @@ PM_START_TEXT = """
 ➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
 ➖➖➖➖➖➖➖➖➖➖➖
-➛ Try The Help Buttons Below To Know My Abilities[.](https://telegra.ph/file/852e96d6c59f2ccad32df.jpg) ××
+➛ Try The Help Buttons Below To Know My Abilities[.](https://telegra.ph/file/90959b8d78cf50d7e87d7.jpg) ××
 """
 
 HELP_STRINGS = """
-Hey there, I'm Flare Robot !
-To make me functional, make sure that i have enough rights in your group.
+Hey there, I'm Sir NightEye !
+To make me functional,make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
