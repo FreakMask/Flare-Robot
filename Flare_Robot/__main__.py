@@ -198,10 +198,10 @@ def test(update: Update, context: CallbackContext):
 @telethn.on(events.NewMessage(pattern="/check"))
 async def awake(event):
   ғʟᴀʀᴇ = event.sender.first_name
-  ғʟᴀʀᴇ = "**♡ I,m ғʟᴀʀᴇ ʀᴏʙᴏᴛ 愛** \n\n"
+  ғʟᴀʀᴇ = "**♟ I,m Sir NightEye ** \n\n"
   ғʟᴀʀᴇ += "**♡ I'm Working With sᴇxʏ Speed**\n\n"
   ғʟᴀʀᴇ += "**♡ ғʟᴀʀᴇ: LATEST Version**\n\n"
-  ғʟᴀʀᴇ += "**♡ My Creator:** [ᴀsᴛᴀ](t.me/@{OWNER_USERNAME})\n\n"
+  ғʟᴀʀᴇ += "**♡ My Creator:** [Freak](t.me/@{OWNER_USERNAME})\n\n"
   ғʟᴀʀᴇ += "**♡ ᴀɴʏ ɪssᴜᴇs ᴄᴏɴᴛᴀᴄᴛ ʜᴇʀᴇ @Freia_Support **\n\n"
   ғʟᴀʀᴇ += "**♡ ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ 💘💘💘**\n\n"
   FLARE_BUTTON = [
